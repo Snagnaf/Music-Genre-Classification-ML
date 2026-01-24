@@ -1,0 +1,11 @@
+**/__pycache__/
+venv
+cache
+images
+
+# Ignora contenuto cartelle ma mantieni i README
+# Ignora contenuto cartelle ma mantieni i README
+src/data/*
+!src/data/README.md
+src/songs/*
+!src/songs/README.md
